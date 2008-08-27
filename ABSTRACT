@@ -1,0 +1,16 @@
+Grails is an open-source web application framework that's all about
+getting things done. Grails combines best-of-breed Java technologies
+(including Hibernate and Spring), convention over configuration, and the
+powerful and dynamic Groovy language. Together with these elements and
+Groovy's ability to seamlessly integrate with your existing Java code,
+Grails finally legitimizes rapid web application development for the Java
+platform.
+
+In this presentation, we'll see first-hand how to use Grails to build a
+fully-functioning and flexible web application in minimal time. As we
+develop the application, we'll explore the Grails project structure, its
+MVC elements, and the power of dynamic methods. We'll see how Groovy's
+highly-expressive nature allows us to write concise code, and Grails' use
+of sensible defaults and convention-over-configuration save us from much
+of the coding and configuration we'd otherwise face with many traditional
+frameworks.

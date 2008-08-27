@@ -1,0 +1,12 @@
+This sample application supplements the `Getting Started with Grails` 
+presentation.  
+
+http://www.nofluffjuststuff.com/show_session_view.jsp?presentationId=8669&showId=104
+
+-This application uses the built-in in-memory HSQLDB that comes with every
+Grails app.
+
+-You may need to execute `grails upgrade` prior to running the app.
+
+-After executing `grails run-app` to start the application, navigate to
+http://localhost:8080/racetrack.
